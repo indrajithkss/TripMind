@@ -1,22 +1,18 @@
 # 🌍 TripMind – AI Powered Trip Planner App
 
-![TripMind Banner](assets/banner.png)
-
 An intelligent travel planning application built with **React Native (Expo), Node.js, Express, MongoDB, and AI APIs**.
 
 TripMind helps travelers create personalized trip plans within seconds using AI-generated itineraries, weather insights, budget estimation, hotel recommendations, and location-based suggestions.
 
 ---
-## DFD Diagram
+ DFD Diagram
 <img width="1081" height="664" alt="image" src="https://github.com/user-attachments/assets/089c5689-361b-44ae-9415-2387fbd3f509" />
-## Use Case Diagram
+ Use Case Diagram
 <img width="1076" height="673" alt="image" src="https://github.com/user-attachments/assets/d13f130e-06c7-484d-a035-8b569c852032" />
 
 ## 📱 App Screenshots
 <img width="614" height="537" alt="image" src="https://github.com/user-attachments/assets/55abe2bb-7633-4f43-a570-9283e49c2a20" />
 <img width="925" height="507" alt="image" src="https://github.com/user-attachments/assets/4d5c1551-7e6d-4aeb-bfb6-5caea2c82c89" />
-
-
 
 ## ✨ Features
 
@@ -57,10 +53,6 @@ TripMind helps travelers create personalized trip plans within seconds using AI-
 * Offline-friendly experience
 
 ---
-
-## 🏗 System Architecture
-
-![Architecture](docs/system-architecture.png)
 
 ---
 
@@ -227,7 +219,6 @@ eas build -p ios --profile production
 ---
 
 ## 👨‍💻 Developer
-
 **Indrajith K S**
 GitHub: https://github.com/indrajithkss
 
