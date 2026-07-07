@@ -13,6 +13,11 @@ TripMind helps travelers create personalized trip plans within seconds using AI-
 ## 📱 App Screenshots
 <img width="614" height="537" alt="image" src="https://github.com/user-attachments/assets/55abe2bb-7633-4f43-a570-9283e49c2a20" />
 <img width="925" height="507" alt="image" src="https://github.com/user-attachments/assets/4d5c1551-7e6d-4aeb-bfb6-5caea2c82c89" />
+<img width="398" height="808" alt="Screenshot 2026-07-07 182411" src="https://github.com/user-attachments/assets/d4228def-52a0-4c17-8403-96afe0c47edf" />
+<img width="396" height="805" alt="Screenshot 2026-07-07 182420" src="https://github.com/user-attachments/assets/5d9b1783-9ae2-4ebc-9506-5e64de68fa91" />
+<img width="405" height="812" alt="Screenshot 2026-07-07 182023" src="https://github.com/user-attachments/assets/fa44d64e-4a5e-44ae-ae36-fb26c63f4ea3" />
+<img width="396" height="788" alt="Screenshot 2026-07-07 182057" src="https://github.com/user-attachments/assets/7604110c-48c3-42ee-b43e-c40d97ade705" />
+<img width="400" height="822" alt="Screenshot 2026-07-07 182139" src="https://github.com/user-attachments/assets/3f9fdcee-4322-467f-aec5-ae371cf2aa0e" />
 
 ## ✨ Features
 
